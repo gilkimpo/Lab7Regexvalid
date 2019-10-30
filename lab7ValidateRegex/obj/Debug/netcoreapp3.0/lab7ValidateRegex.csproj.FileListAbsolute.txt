@@ -1,0 +1,11 @@
+C:\Users\gilki\source\repos\lab7ValidateRegex\lab7ValidateRegex\bin\Debug\netcoreapp3.0\lab7ValidateRegex.exe
+C:\Users\gilki\source\repos\lab7ValidateRegex\lab7ValidateRegex\bin\Debug\netcoreapp3.0\lab7ValidateRegex.deps.json
+C:\Users\gilki\source\repos\lab7ValidateRegex\lab7ValidateRegex\bin\Debug\netcoreapp3.0\lab7ValidateRegex.runtimeconfig.json
+C:\Users\gilki\source\repos\lab7ValidateRegex\lab7ValidateRegex\bin\Debug\netcoreapp3.0\lab7ValidateRegex.runtimeconfig.dev.json
+C:\Users\gilki\source\repos\lab7ValidateRegex\lab7ValidateRegex\bin\Debug\netcoreapp3.0\lab7ValidateRegex.dll
+C:\Users\gilki\source\repos\lab7ValidateRegex\lab7ValidateRegex\bin\Debug\netcoreapp3.0\lab7ValidateRegex.pdb
+C:\Users\gilki\source\repos\lab7ValidateRegex\lab7ValidateRegex\obj\Debug\netcoreapp3.0\lab7ValidateRegex.csprojAssemblyReference.cache
+C:\Users\gilki\source\repos\lab7ValidateRegex\lab7ValidateRegex\obj\Debug\netcoreapp3.0\lab7ValidateRegex.AssemblyInfoInputs.cache
+C:\Users\gilki\source\repos\lab7ValidateRegex\lab7ValidateRegex\obj\Debug\netcoreapp3.0\lab7ValidateRegex.AssemblyInfo.cs
+C:\Users\gilki\source\repos\lab7ValidateRegex\lab7ValidateRegex\obj\Debug\netcoreapp3.0\lab7ValidateRegex.dll
+C:\Users\gilki\source\repos\lab7ValidateRegex\lab7ValidateRegex\obj\Debug\netcoreapp3.0\lab7ValidateRegex.pdb
